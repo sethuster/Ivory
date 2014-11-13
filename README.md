@@ -1,4 +1,4 @@
-Ivory
-=====
+IVORY
+======
 
-An Rspec capybara framework
+OKL Framework and Sample Tests

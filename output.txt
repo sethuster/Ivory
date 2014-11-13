@@ -1,0 +1,6 @@
+
+iTriage Code Test
+  Navigation Test
+
+Finished in 10.65 seconds
+1 example, 0 failures
